@@ -1,19 +1,27 @@
 <h1> Hi, I'm Brianna!</h1>
 
-<h1>Hi, I'm Brianna! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+- <b> (emoji) Undergraduate Senior at the University of North Carolina - Chapel Hill</b>
+- <b> (emoji) Information Technology Intern at City of Raleigh Municipal Government
 
-<h2>👨‍💻 Data Science and Analytics Projects:</h2>
+<h2>👨‍💻 Data Science and Analytics Projects</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-<h2> Python</h2>
+<h2>Language and Software Experience</h2>
 
+- [<img align="left" alt="R" width="36px" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />][R]
+
+  
+-
+-  https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2> Connect with me!</h2>
+<h2>Example work</h2>
+
+<h2>Connect with me!</h2>
 
 [<img align="left" alt="BriannaHayes | LinkedIn" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
