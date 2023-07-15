@@ -1,7 +1,7 @@
 <h1> Hi, I'm Brianna!</h1>
 
-- <b> 🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill</b>
 - <b> 👩‍💻 Information Technology Intern at City of Raleigh Municipal Government
+- <b> 🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill</b>
 
 <h2> 📈 Data Science and Analytics Projects</h2>
 
@@ -20,12 +20,12 @@
 - ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
   ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 - ![image](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=000)
+  ![image](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
 - ![image](https://img.shields.io/badge/esri-000000?style=for-the-badge&logo=esri&logoColor=white)
   ![image](http://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=white)
   ![image](http://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white)
 - ![image](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![image](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![image](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
 - ![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 - ![image](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
   ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
