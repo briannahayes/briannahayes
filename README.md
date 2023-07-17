@@ -10,7 +10,7 @@
 
 <h2> Data Science and Analytics Work</h2>
 
-- <b>[Internship Projects](https://github.com/briannahayes/intern-projects.git)</b>
+- <b>[Intern Projects](https://github.com/briannahayes/intern-projects.git)</b>
 - <b>[Statistical Scripting](https://github.com/briannahayes/statistical-scripting.git)</b>
 - <b>[GIS](https://github.com/briannahayes/gis.git)</b>
 
