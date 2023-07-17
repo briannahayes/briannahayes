@@ -1,7 +1,7 @@
 <body style="background-color: rgb(30-20-1);">
 <h1> Hi, I'm Brianna!</h1>
 
-[<img align="left" alt="BriannaHayes | LinkedIn" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="BriannaHayes | LinkedIn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/briannahayes-
 
