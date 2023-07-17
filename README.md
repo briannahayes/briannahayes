@@ -34,10 +34,6 @@
   ![image](http://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=white)
   ![image](http://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white)
 
-![image](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-  ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
 <!--
 
 Here are some ideas to get you started:
