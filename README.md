@@ -1,7 +1,7 @@
 <body style="background-color: rgb(30-20-1);">
 <h1> Hi, I'm Brianna!</h1>
 
-[<img align="left" alt="BriannaHayes | LinkedIn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="BriannaHayes | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/briannahayes-
 
@@ -11,7 +11,7 @@
 <h2> Data Science and Analytics Work</h2>
 
 - <b>[Intern Projects](https://github.com/briannahayes/intern-projects.git)</b>
-- <b>[Statistical Scripting](https://github.com/briannahayes/statistical-scripting.git)</b>
+- <b>[Statistical Programming](https://github.com/briannahayes/statistical-programming.git)</b>
 - <b>[GIS](https://github.com/briannahayes/gis.git)</b>
 
 <h2>Technical Experience</h2>
