@@ -12,7 +12,10 @@
 
 <h2> Data Science and Analytics Work</h2>
 
-- <b>[Intern Projects](https://github.com/briannahayes/intern-projects.git)</b>
+- <b>City of Raleigh Intern Projects</b>
+  - <b>[Fire Department Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/Hayes_RFD_v1.pdf)</b>
+  - <b>[Oracle PeopleSoft User Information Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/PeopleSoft_Hayes_v1.pdf)</b>
+  - <b>[Interdepartmental Google Analytics Power BI Dashboard]()</b>
 - <b>[Statistical Programming](https://github.com/briannahayes/statistical-programming.git)</b>
 - <b>[GIS](https://github.com/briannahayes/gis.git)</b>
 
