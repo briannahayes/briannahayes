@@ -1,12 +1,14 @@
 <body style="background-color: rgb(30-20-1);">
 <h1> Hi, I'm Brianna!</h1>
 
-[<img align="left" alt="BriannaHayes | LinkedIn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
+[<img align="left" alt="BriannaHayes | LinkedIn" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/briannahayes-
 
 <body> 👩‍💻 Information Technology Intern at City of Raleigh Municipal Government<br>
-🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill</body>
+🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill<br>
+
+  [📝 Click here for my complete resume](https://github.com/briannahayes/resume/blob/main/Hayes_resume.pdf)</body>
 
 <h2> Data Science and Analytics Work</h2>
 
