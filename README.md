@@ -13,7 +13,7 @@
 <h2> Data Science and Analytics Work</h2>
 
 - <b>City of Raleigh Intern Projects</b>
-  - <b>[Fire Department Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/RaleighFire_v1.pdf)</b>
+  - <b>[Fire Department Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/RFD_Hayes_v2.pdf)</b>
   - <b>[Oracle PeopleSoft User Information Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/PeopleSoft_Hayes_v1.pdf)</b>
   - <b>[Interdepartmental Google Analytics Power BI Dashboard]()</b>
 - <b>[Statistical Programming](https://github.com/briannahayes/statistical-programming.git)</b>
