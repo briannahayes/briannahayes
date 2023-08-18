@@ -15,7 +15,7 @@
 - <b>City of Raleigh Intern Projects</b>
   - <b>[Fire Department Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/RFD_Hayes_v2.pdf)</b>
   - <b>[PeopleSoft User Permissions Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/PeopleSoft_Hayes_v2.pdf)</b>
-  - <b>[Interdepartmental Google Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/GoogleAnalytics_Hayes_v1.pdf)</b>
+  - <b>[Interdepartmental Google Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/GoogleAnalytics_Hayes_v1.1.pdf)</b>
 - <b>[Statistical Programming](https://github.com/briannahayes/statistical-programming.git)</b>
 - <b>[GIS](https://github.com/briannahayes/gis.git)</b>
 
