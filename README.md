@@ -6,7 +6,7 @@
   👩‍🏫 Obtaining a dual Bachelor of Arts degree in Political Science and Communications<br>
   📊 Interested in pursuing a career in survey research and inferential statistics<br>
   
-[📝 Click here for my complete resume](https://github.com/briannahayes/resume/blob/baedbb3540df18404371d637569711b7f5c2ff49/HayesResume.pdf)</body>
+[📝 Click here for my complete resume](https://github.com/briannahayes/resume/blob/9c74b5945478e6742b878f899a5a9f1a27f41a0c/HayesResume.pdf)</body>
 
 <h2> Data Science and Analytics Work</h2>
 
