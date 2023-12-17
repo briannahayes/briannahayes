@@ -1,23 +1,23 @@
-<body style="background-color: rgb(30-20-1);">
-<h1> Hi, I'm Brianna!</h1>
+<body style="background-color: rgb(245-218-223);">
+  
+  <h1> Hi, my name is <A href="https://linkedin.com/in/briannahayes-">Brianna Hayes</A>!</h1>
 
-[<img align="left" alt="BriannaHayes | LinkedIn" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/briannahayes-
-
-<body> 👩‍💻 Information Technology Intern at City of Raleigh Municipal Government<br>
-🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill<br>
-
-  [📝 Click here for my complete resume](https://github.com/briannahayes/resume/blob/main/Hayes_resume.pdf)</body>
+<body> 🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill<br>
+  👩‍🏫 Obtaining a dual Bachelor of Arts degree in Political Science and Communications<br>
+  📊 Interested in pursuing a career in survey research and inferential statistics<br>
+  
+[📝 Click here for my complete resume](https://github.com/briannahayes/resume/blob/baedbb3540df18404371d637569711b7f5c2ff49/HayesResume.pdf)</body>
 
 <h2> Data Science and Analytics Work</h2>
 
 - <b>City of Raleigh Intern Projects</b>
-  - <b>[Fire Department Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/RFD_Hayes_v2.pdf)</b>
-  - <b>[PeopleSoft User Permissions Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/PeopleSoft_Hayes_v2.pdf)</b>
-  - <b>[Interdepartmental Google Analytics Power BI Dashboard](https://github.com/briannahayes/intern-projects/blob/main/GoogleAnalytics_Hayes_v1.1.pdf)</b>
-- <b>[Statistical Programming](https://github.com/briannahayes/statistical-programming.git)</b>
-- <b>[GIS](https://github.com/briannahayes/gis.git)</b>
+  - <b>[Power BI Dashboard - Fire Department Analytics](https://github.com/briannahayes/intern-projects/blob/main/RFD_Hayes_v2.pdf)</b>
+  - <b>[Power BI Dashboard - PeopleSoft User Permissions](https://github.com/briannahayes/intern-projects/blob/main/PeopleSoft_Hayes_v2.pdf)</b>
+  - <b>[Power BI Dashboard - Interdepartmental Google Analytics](https://github.com/briannahayes/intern-projects/blob/main/GoogleAnalytics_Hayes_v1.1.pdf)</b>
+- <b>Statistical Programming Samples</b>
+  - <b>[R - Hypothesis Testing](https://github.com/briannahayes/statistical-programming/blob/52b92073b67e5fb9e2a08451cd55583f5e043a65/R_sample_ht.pdf)</b>
+  - <b>[R - Bootstrap Sampling](https://github.com/briannahayes/statistical-programming/blob/705cca73696793157cf0031f46812bfbbe268ef0/R_sample_bootstrap.pdf)</b>
+  - <b>[Python - Prediction](https://github.com/briannahayes/statistical-programming/blob/main/python_pred.pdf)</b>
 
 <h2>Technical Experience</h2>
 
@@ -30,14 +30,18 @@
   ![image](https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
   
 ![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![image](https://img.shields.io/badge/dplyr-F58216?style=for-the-badge&logo=ggplot&logoColor=white)
   ![image](https://img.shields.io/badge/ggplot-000000?style=for-the-badge&logo=ggplot&logoColor=white)
-  
-![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+  ![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
   
 ![image](https://img.shields.io/badge/esri-000000?style=for-the-badge&logo=esri&logoColor=white)
   ![image](http://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=white)
   ![image](http://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white)
+
+![image](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 <!--
 
