@@ -15,7 +15,7 @@
   - <b>[Power BI Dashboard - PeopleSoft User Permissions](https://github.com/briannahayes/intern-projects/blob/main/PeopleSoft_Hayes_v2.pdf)</b>
   - <b>[Power BI Dashboard - Interdepartmental Google Analytics](https://github.com/briannahayes/intern-projects/blob/main/GoogleAnalytics_Hayes_v1.1.pdf)</b>
 - <b>Statistical Programming Samples</b>
-  - <b>[Python - Prediction](https://github.com/briannahayes/statistical-programming/blob/main/python_pred.pdf)</b>
+  - <b>[Python - Inference, Bootstrapping, Prediction](https://github.com/briannahayes/statistical-programming/blob/ef7e083473cdfd46b5488c432358647e343f6e2e/Python_sample.pdf)</b>
   - <b>[R - Hypothesis Testing](https://github.com/briannahayes/statistical-programming/blob/52b92073b67e5fb9e2a08451cd55583f5e043a65/R_sample_ht.pdf)</b>
   - <b>[R - Bootstrap Sampling](https://github.com/briannahayes/statistical-programming/blob/705cca73696793157cf0031f46812bfbbe268ef0/R_sample_bootstrap.pdf)</b>
 
