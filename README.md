@@ -14,10 +14,10 @@
   - <b>[Power BI Dashboard - Fire Department Analytics](https://github.com/briannahayes/intern-projects/blob/main/RFD_Hayes_v2.pdf)</b>
   - <b>[Power BI Dashboard - PeopleSoft User Permissions](https://github.com/briannahayes/intern-projects/blob/main/PeopleSoft_Hayes_v2.pdf)</b>
   - <b>[Power BI Dashboard - Interdepartmental Google Analytics](https://github.com/briannahayes/intern-projects/blob/main/GoogleAnalytics_Hayes_v1.1.pdf)</b>
-- <b>Statistical Programming Samples</b>
-  - <b>[Python - Inference, Bootstrapping, Prediction](https://github.com/briannahayes/statistical-programming/blob/ef7e083473cdfd46b5488c432358647e343f6e2e/Python_sample.pdf)</b>
-  - <b>[R - Hypothesis Testing](https://github.com/briannahayes/statistical-programming/blob/52b92073b67e5fb9e2a08451cd55583f5e043a65/R_sample_ht.pdf)</b>
-  - <b>[R - Bootstrap Sampling](https://github.com/briannahayes/statistical-programming/blob/705cca73696793157cf0031f46812bfbbe268ef0/R_sample_bootstrap.pdf)</b>
+- <b>Regression Code Samples</b>
+  - <b>[Python - Bootstrapping and prediction with birds](https://github.com/briannahayes/statistical-programming/blob/ef7e083473cdfd46b5488c432358647e343f6e2e/Python_sample.pdf)</b>
+  - <b>[R - Hypothesis testing with voter data](https://github.com/briannahayes/statistical-programming/blob/52b92073b67e5fb9e2a08451cd55583f5e043a65/R_sample_ht.pdf)</b>
+  - <b>[R - Bootstrap sampling with an study on inequality](https://github.com/briannahayes/statistical-programming/blob/705cca73696793157cf0031f46812bfbbe268ef0/R_sample_bootstrap.pdf)</b>
 
 <h2>Technical Experience</h2>
 
