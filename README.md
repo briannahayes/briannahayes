@@ -5,8 +5,6 @@
 <body> 🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill<br>
   👩‍🏫 Obtaining a dual Bachelor of Arts degree in Political Science and Communications<br>
   📊 Interested in pursuing a career in data analytics<br>
-  
-[📝 Click here for my complete resume](https://github.com/briannahayes/resume/blob/main/HayesResume.pdf)</body>
 
 <h2> Data Science and Analytics Work</h2>
 
