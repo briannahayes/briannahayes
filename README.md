@@ -2,8 +2,8 @@
   
   <h1> Hi, my name is <A href="https://linkedin.com/in/briannahayes-">Brianna Hayes</A>!</h1>
 
-<body> 🐏 Undergraduate Senior at the University of North Carolina - Chapel Hill<br>
-  👩‍🏫 Obtaining a dual Bachelor of Arts degree in Political Science and Communications<br>
+<body> 🐏 Recent graduate from the University of North Carolina - Chapel Hill<br>
+  👩‍🏫 Dual Bachelor of Arts degree in Political Science and Communications<br>
   📊 Interested in pursuing a career in data analytics<br>
 
 <h2> Data Science and Analytics Work</h2>
